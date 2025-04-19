@@ -1,0 +1,48 @@
+
+{
+  "premier_league": {
+    "channel_ids": ["UCv4E-sQMCMy1w2TzHJBsTJQ"],
+    "search_filter": "highlights",
+    "min_duration_minutes": 3
+  },
+  "serie_a": {
+    "channel_ids": ["UCBJeMCIeLQos7wacox4hmLQ"],
+    "search_filter": "Highlights",
+    "min_duration_minutes": 3
+  },
+  "la_liga": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "LaLiga",
+    "min_duration_minutes": 2
+  },
+  "champions_league": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Champions League Highlights",
+    "min_duration_minutes": 6
+  },
+  "champions_league": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Champions League",
+    "min_duration_minutes": 3
+  },
+  "europa_league": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Europa League",
+    "min_duration_minutes": 3
+  },
+  "tennis": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Champions League",
+    "min_duration_minutes": 3
+  },
+  "formula1": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Highlights",
+    "min_duration_minutes": 8
+  },
+  "bundesliga": {
+    "channel_ids": ["UCYtNSrfGdXooZYu_hkq18_w"],
+    "search_filter": "Bundesliga",
+    "min_duration_minutes": 5
+  }
+}
